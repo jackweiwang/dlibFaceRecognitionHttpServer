@@ -15,3 +15,13 @@ dlib onion curl
 
 ### 3.compile myserver
   cmake; make; get bin 
+
+## usage
+First, you have to start the server,
+and then, you need used client connected our server,
+last, change ip port in onion_server.c
+ 
+ 
+ 
+ tips:\
+ The software is currently under implementation
