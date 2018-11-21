@@ -3,15 +3,15 @@
 # thanks
 dlib onion curl
 
-## install 
+## Install 
 ### 1.download
-http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2
-http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
-opencv3.2
-input to model directory.
+  http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2 \
+  http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2 \
+  opencv3.2 \
+  later input '.dat' file to model directory.
 
 ### 2.compile curl onion dlib
-cmake; make;  make install 
+  cmake; make;  make install 
 
 ### 3.compile myserver
-cmake; make; get bin 
+  cmake; make; get bin 
