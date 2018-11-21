@@ -1,0 +1,8 @@
+requirement:
+opencv3.2
+
+optional:
+gcrypt
+gnutls
+
+if you used 'gcypt gnutils' or other version opencv , you need to change cmakelist.txt

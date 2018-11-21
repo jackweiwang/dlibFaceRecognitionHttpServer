@@ -1,0 +1,3 @@
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/cuda_test_build/CMakeFiles/edit_cache.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/cuda_test_build/CMakeFiles/rebuild_cache.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/cuda_test_build/CMakeFiles/cuda_test.dir

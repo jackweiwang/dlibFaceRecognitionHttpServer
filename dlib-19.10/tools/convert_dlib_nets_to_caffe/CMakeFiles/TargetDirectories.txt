@@ -1,0 +1,14 @@
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/install.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/list_install_components.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/rebuild_cache.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/install/strip.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/install/local.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/dtoc.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/CMakeFiles/edit_cache.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/rebuild_cache.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/install.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/list_install_components.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/dlib.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/install/local.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/install/strip.dir
+/home/ww/dlib-19.10/tools/convert_dlib_nets_to_caffe/dlib_build/CMakeFiles/edit_cache.dir
