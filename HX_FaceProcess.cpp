@@ -19,14 +19,14 @@ int ToUrlgetFaceReg(char *svrUrl, double *dFeature, char *dstFeatureChar)
 	srcimage = cv::imread(svrUrl);
     if(!srcimage.data)
     {
-	printf("open image fail = %s\n",svrUrl);
+   		printf("open image fail = %s\n",svrUrl);
     	return ret_status = FR_STATUS_OPEN_IMAGE_FAIL;
     }
     
 
-	int nImgWidth = srcimage.cols;  //获取图像宽度
-        int nImgHeight = srcimage.rows;  // 获取图像高度
-
+	int nImgWidth = srcimage.cols;  
+        int nImgHeight = srcimage.rows; 
+	
 	double zoom = (double)(ZOOM_IMAGE) / (double)(nImgWidth);
 	cv::Mat image = srcimage.clone();
 	cv::resize(srcimage, image, cv::Size(), zoom, zoom, cv::INTER_LINEAR);
@@ -37,10 +37,9 @@ int ToUrlgetFaceReg(char *svrUrl, double *dFeature, char *dstFeatureChar)
 	ret_status = hx_FaceReg.HX_FaceRegInit();
     if( ret_status != 0 )
     {
-
-		hx_FaceReg.HX_FaceRegFree();	
+	 	hx_FaceReg.HX_FaceRegFree();	
 		return ret_status = FR_STATUS_INIT_DESERIALIZL;
-	}
+    }
 		
 	dlib::array2d<bgr_pixel> img;
    	dlib::rectangle rect;
